@@ -27,6 +27,9 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "ios": { "bundleIdentifier": "shopios" },
+
+    "android": { "package": "shop.app" }
   }
 }
